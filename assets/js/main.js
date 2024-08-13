@@ -9,7 +9,7 @@
 /** RESUME DOWNLOAD CODE */
 function downloadImage() {
   // Replace 'image-url.jpg' with the actual URL of the image you want to download
-  var imageUrl = 'assets/img/Evan Newman-Chock_WebDevResume 2024.png';
+  var imageUrl = 'assets/img/EvanNewmanChock_WebDevResume_2024-1.pdf';
   // Create a temporary link element
   var downloadLink = document.createElement('a');
   // Set the href attribute to the image URL
