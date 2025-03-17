@@ -15,7 +15,7 @@ function downloadImage() {
   // Set the href attribute to the image URL
   downloadLink.href = imageUrl;
   // Set the download attribute to specify the default file name
-  downloadLink.download = 'EvanNewman_resume2024';
+  downloadLink.download = 'EvanNewman_resume2025';
   // Append the link to the document
   document.body.appendChild(downloadLink);
   // Trigger a click event on the link to start the download
